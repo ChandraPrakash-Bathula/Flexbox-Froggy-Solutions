@@ -1,2 +1,3 @@
 # Flexbox-Froggy-Solutions
-A good practice for flexbox.
+
+Flex Froggy is an interactive game aimed at teaching CSS flexbox layout in a visually engaging manner. In this web-based game, players navigate through various levels, each representing a different flexbox concept, to help a group of frogs reach their lily pads. The Git repository for Flex Froggy contains the game's source code, assets, and documentation, making it an open and collaborative space for developers to contribute and improve the game. Through hands-on challenges, players learn about key flexbox properties like justify-content, align-items, and flex-direction, gaining practical experience in creating flexible and responsive layouts. Flex Froggy not only serves as an educational resource but also as a creative platform where developers can explore and enhance their understanding of flexbox layout in a playful and interactive environment.
